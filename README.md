@@ -1,6 +1,6 @@
 # crtnb_ipynb
 Bash script to create useable .ipynb notebook without launching jupyter notebook.  
-Download and copy crtnb to the .config folder
+Download and copy crtnb to the ~/.config folder
 
 ## Create Executable
 Steps to create executable named crtnb
